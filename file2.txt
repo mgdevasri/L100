@@ -1,7 +1,7 @@
 for update the file from vscode
  
 cmd
-git clone ""
-git add <file name>
-git commit -m "msg"
-git push origin main
+git clone "" //get the git into local for updation
+git add <file name> //add the file to the local copy folder 
+git commit -m "msg" //make commit
+git push origin main //this cmd is used to push file to the git repo origin main branch 
