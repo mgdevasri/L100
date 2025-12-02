@@ -1,0 +1,7 @@
+for update the file from vscode
+ 
+cmd
+git clone ""
+git add <file name>
+git commit -m "msg"
+git push origin main
